@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @IshuPrabhakar
+- 👋 Hi, I’m IshuPrabhakar
+- :book: Final year Computer Science Undergraduate
 - 👀 I’m interested in exploring new technologies that can help everyone make their life easier.
 - 🌱 I’m currently learning software development and exoloring new things.
 - 💞️ I’m looking to collaborate on some extraordinay projects.
