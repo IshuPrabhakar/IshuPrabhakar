@@ -5,9 +5,7 @@
 - 💞️ I’m looking to collaborate on some extraordinay projects.
 - 📫 How to reach me? well you can search me on github, instagram and on telegram just search for the username.
 
-:upside_down_face: Reach me on [linkedin](https://www.linkedin.com/in/ishuprabhakar/)
-
-:upside_down_face: Reach me on [Instagram](https://www.instagram.com/ishuprabhakar/)
+:upside_down_face: Reach me on [linkedin](https://www.linkedin.com/in/ishuprabhakar/)  
 
 <!---
 IshuPrabhakar/IshuPrabhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
