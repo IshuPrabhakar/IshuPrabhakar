@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I’m Ishu Prabhakar.<br>👯 Final year Computer Science Undergraduate.<br>🤝 I’m interested in exploring new technologies that can help everyone make their life easier.<br>🌱 I’m interested in exploring new technologies that can help everyone make their life easier.<br> I’m looking to collaborate on some extraordinay projects.<br>
+🔭 Hi, I’m Ishu Prabhakar.<br>👯 A Software Engineer.<br>🤝 I’m interested in exploring new technologies that can help everyone make their life easier.<br><br> I’m looking to collaborate on some extraordinay projects.<br>
 
 
 ## 🌐 Socials:
