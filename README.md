@@ -14,7 +14,7 @@ I specialize in building cross-platform applications using Flutter, a powerful f
 Proficient in backend development with **C#**, **ASP.NET**, and **SQL Server**, I design and deploy microservices and scalable APIs. I have experience with **Docker**, **Kubernetes**, and **Dapper ORM** to ensure robust system performance. These allows me to build robust and scalable server-side solutions to support the functionality of the applications I create.
 
 ### 🌱 Full Stack Development:
-From front-end interfaces to backend microservices, I deliver end-to-end solutions. Notable projects include the **[Heyy-chat-app](https://github.com/IshuPrabhakar/Heyy-chat-app)**, a highly scalable notification system that powers the mobile apps which I create and an EV charging station finder app with 5K+ downloads and a 4.4 average rating on the Play Store.
+From front-end interfaces to backend microservices, I deliver end-to-end solutions. Notable projects include the **[Heyy-chat-app](https://github.com/IshuPrabhakar/Heyy-chat-app)**,an EV charging station finder app with 5K+ downloads and a 4.4 average rating on the Play Store and a highly scalable notification system that powers the mobile apps which I create.
 
 ### 🛠️ Versatility in Tools & Tech:
 Experienced in **Azure**, **ObjectBox**, **SignalR**, **WebRTC**, and more, I bring a diverse skillset to tackle a range of challenges. My journey also includes mastering tools like **GRPC**, **Firebase**, and **Git**.
