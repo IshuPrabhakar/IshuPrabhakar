@@ -33,7 +33,8 @@ Technology evolves rapidly, and I am committed to staying at the forefront of th
 - **GitHub:** [IshuPrabhakar](https://github.com/IshuPrabhakar)  
 - **LinkedIn:** [linkedin.com/in/ishuprabhakar](https://linkedin.com/in/ishuprabhakar)  
 - **Instagram:** [ishprabhakar](https://www.instagram.com/ishuprabhakar)
-- **Twitter:** [ishuprabhakar](https://twitter.com/ishu_prabhakar) 
+- **Twitter:** [ishuprabhakar](https://twitter.com/ishu_prabhakar)
+- **Medium Blogs** [IshuPrabhakar](https://medium.com/@ishuprabhakar)
 
 ---
 
